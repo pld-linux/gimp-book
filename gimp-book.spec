@@ -1,4 +1,4 @@
-# $Revision: 1.1 $
+# $Revision: 1.2 $
 # ToDo:
 #  - Fix descriptions.
 #  - Is package name ok? Or maybe, it should be changed to something else,
@@ -12,8 +12,8 @@ Version:	1.0
 Release:	1
 License:	OpenContent
 Group:		Documentation
-Source0:	http://gimp/Grokking-the-GIMP-v%{version}.tar.gz
-URL:		http://gimp-savvy.com/BOOK/TarDist/Grokking-the-GIMP-v%{version}.tar.gz
+Source0:	http://gimp-savvy.com/BOOK/TarDist/Grokking-the-GIMP-v%{version}.tar.gz
+URL:		http://gimp-savvy.com/BOOK/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
