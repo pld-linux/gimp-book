@@ -1,4 +1,4 @@
-# $Revision: 1.2 $
+# $Revision: 1.3 $
 # ToDo:
 #  - Fix descriptions.
 #  - Is package name ok? Or maybe, it should be changed to something else,
