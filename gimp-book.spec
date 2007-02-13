@@ -1,4 +1,4 @@
-# $Revision: 1.5 $
+# $Revision: 1.6 $
 # ToDo:
 #  - Fix descriptions.
 #  - Is package name ok? Or maybe, it should be changed to something else,
@@ -6,7 +6,7 @@
 #  - Like above, shouldn't it be installed under /usr/share/doc/Grokking-the-Gimp ?
 
 Summary:	The HTML version of "Grokking the GIMP" book
-Summary(pl.UTF-8):   Wersja HTML książki "Grokking the GIMP"
+Summary(pl.UTF-8):	Wersja HTML książki "Grokking the GIMP"
 Name:		gimp-book
 Version:	1.0
 Release:	1
